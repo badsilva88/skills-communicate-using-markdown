@@ -2,4 +2,5 @@
 - [ ] Outline my portfolio
 - [X] Introduce myself to the world
 - [ ] Cortar o cabelo
-- [ ] Fazer a barba! 
+- [ ] Fazer a barba!
+- [ ] trocar fralda
